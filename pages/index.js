@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <h1>I LOVE U ❤️❤️❤️❤️ for ever!</h1>
+    <h1>I LOVE U ❤️❤️❤️❤️ FOR EVER</h1>
   )
 }
